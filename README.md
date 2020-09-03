@@ -2,4 +2,4 @@
 
 DevChallenges
 
-https://second-project-178d0.web.app/
+https://second-project-178d0.firebaseapp.com/
